@@ -30,7 +30,6 @@ For a full description of the data used in this workshop see the [data page](dat
 | OpenRefine |[Link](http://openrefine.org/download.html) | [Link](http://openrefine.org/documentation.html) | Linux, MacOS, Windows |
 | R | See install instructions below. | | Linux, MacOS, Windows | |
 | RStudio | [Link](https://www.rstudio.com/products/rstudio/download/#download) | [Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) | Linux, MacOS, Windows| |
-| SQLite Browser | [Link](http://sqlitebrowser.org/dl/) | | |
 
 ### Spreadsheet program
 
@@ -148,9 +147,10 @@ your operating system, and then follow the instructions to install
 * Once it's installed, open RStudio to make sure it works and you don't get any
    error messages.
 
-* After installing R and RStudio, you need to install the `tidyverse` and
-`RSQLite` packages. Start RStudio by double-clicking the icon and then type:
-  `install.packages(c("tidyverse", "RSQLite"))`. You can also do this by going to Tools -> Install Packages and
-  typing the names of the packages you want to install, separated by a comma.
+### After installing R and RStudio
+After installing R and RStudio, you need to install the `tidyverse` package.
+Start RStudio by double-clicking the icon and then type:
+`install.packages("tidyverse")`. You can also do this by going to Tools -> Install Packages and
+typing the name of the package you want to install.
 
-  Congratulations! You are now ready for the workshop!
+Congratulations! You are now ready for the workshop!
