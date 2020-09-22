@@ -384,4 +384,4 @@ during the workshop.
 {% endcomment %}
 
 In order to prepare for the workshop follow our
-<a href="/setup/">detailed instalation instructions</a>.
+<a href="{{ site.baseurl }}/setup/">detailed instalation instructions</a>.
