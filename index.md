@@ -383,5 +383,5 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-In order to prepare for the workshpo follow our
+In order to prepare for the workshop follow our
 <a href="/setup/">detailed instalation instructions</a>.
