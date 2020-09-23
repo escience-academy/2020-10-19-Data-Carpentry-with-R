@@ -165,8 +165,8 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> Participants must bring a laptop or a desktop computer with a
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific softwarepackages installed. Detailed installation instructions are listed on a <a href="{{ site.baseurl }}/setup/">setup page</a>. Instructions how to setup environment to participate are listed <a href="#setup">below</a>).
 </p>
 
 {% comment %}
@@ -384,4 +384,4 @@ during the workshop.
 {% endcomment %}
 
 In order to prepare for the workshop follow our
-<a href="/setup/">detailed instalation instructions</a>.
+<a href="{{ site.baseurl }}/setup/">detailed instalation instructions</a>.
