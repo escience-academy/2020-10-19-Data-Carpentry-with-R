@@ -158,6 +158,10 @@ This block displays the date and links to Google Calendar.
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
+<p>
+  <strong>Certification:</strong>
+  For this workshop, upon request, we issue attendance certificates. The participation is equivalent to 2 GS or ECTS points.
+</p>
 
 {% comment %}
 SPECIAL REQUIREMENTS
